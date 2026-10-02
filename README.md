@@ -1,6 +1,6 @@
 # Replication Package
 
-## Parliamentary Turbulence: Drivers of Climate Policy Opposition in MEPs’ Legislative Behaviour
+## From Solutions to Denial: Drivers of Climate Action Opposition in MEPs' Legislative Behaviour
 
 This repository contains code and data required to replicate the analyses in the accompanying manuscript.
 
